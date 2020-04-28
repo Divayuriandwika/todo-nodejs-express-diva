@@ -1,0 +1,16 @@
+{
+  "name": "todo-nodejs-express-diva",
+  "version": "1.0.0",
+  "description": "task todo nodejs-express",
+  "main": "index.js",
+  "author": "Diva",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.3"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "development": "nodemon app.js"
+  }
+}
